@@ -23,5 +23,4 @@ public class Score {
 		g.drawString("Queen "+String.valueOf(player1/10)+String.valueOf(player1%10), (GAME_WIDTH/2)-200, 50);
 		g.drawString(String.valueOf(player2/10)+String.valueOf(player2%10)+" King", (GAME_WIDTH/2)+20, 50);
 	}
-
 }

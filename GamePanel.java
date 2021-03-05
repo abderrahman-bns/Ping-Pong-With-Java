@@ -173,6 +173,5 @@ public class GamePanel extends JPanel implements Runnable {
 			paddle2.keyReleased(e);
 				
 		}
-	}
-	
+	}	
 }

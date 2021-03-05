@@ -40,6 +40,5 @@ public class Balls extends Rectangle {
 	public void draw(Graphics g) {
 		g.setColor(Color.WHITE);
 		g.fillOval(x, y, height, width);
-	}
-	
+	}	
 }
