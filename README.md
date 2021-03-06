@@ -1,7 +1,7 @@
 # Ping_Pong
 
-création de jeux "ping_pong" en java
+Création de jeux "ping_pong" en java
 
-les "Balls" se lancent du centre aléatoirement vers le gauche ou le droit
+Les "Balls" se lancent du centre aléatoirement vers le gauche ou le droit
 
-les "Paddles" peuvent se déplacer suivant les deux axes (x,y)
+Les "Paddles" peuvent se déplacer suivant les deux axes (x,y)
